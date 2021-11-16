@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/coding/cpp/galaxy",
+  "command": "/data/data/com.termux/files/usr/bin/c++  -I/data/data/com.termux/files/home/coding/cpp/galaxy/inc -O2 -g -DNDEBUG -o CMakeFiles/galaxy.dir/src/main.cpp.o -c /data/data/com.termux/files/home/coding/cpp/galaxy/src/main.cpp",
+  "file": "/data/data/com.termux/files/home/coding/cpp/galaxy/src/main.cpp"
+}
+]

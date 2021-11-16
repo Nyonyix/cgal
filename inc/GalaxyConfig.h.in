@@ -1,0 +1,2 @@
+#define Galaxy_VERSION_MAJOR @Galaxy_VERSION_MAJOR@
+#define Galaxy_VERSION_MINOR @Galaxy_VERSION_MINOR@
